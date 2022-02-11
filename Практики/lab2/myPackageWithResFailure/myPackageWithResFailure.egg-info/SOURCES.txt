@@ -1,0 +1,10 @@
+setup.py
+myPackageWithResFailure/__init__.py
+myPackageWithResFailure/core.py
+myPackageWithResFailure.egg-info/PKG-INFO
+myPackageWithResFailure.egg-info/SOURCES.txt
+myPackageWithResFailure.egg-info/dependency_links.txt
+myPackageWithResFailure.egg-info/requires.txt
+myPackageWithResFailure.egg-info/top_level.txt
+myPackageWithResFailure.egg-info/.ipynb_checkpoints/PKG-INFO-checkpoint
+myPackageWithResFailure.egg-info/.ipynb_checkpoints/dependency_links-checkpoint.txt
